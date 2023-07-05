@@ -11,6 +11,9 @@ FrontEnd - Kristina Jokic, Aryan Patil, Jeff Acevedo, Zipeng Ni
 BackEnd - All functionaltiy Developement (small UI changes to meet backend developement needs)
 
           Nikhil Agarwal (Prescriptions)
+
+          Prescription Schema:
+          ![image](https://github.com/nikhildagarwal/SWE-DrubHub-Project/assets/81342764/d63d6446-230c-4038-af8e-1e8cb4b585b3)
           
           Mayank Barad (Delivery)
           
