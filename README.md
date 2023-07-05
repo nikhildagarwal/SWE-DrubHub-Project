@@ -8,7 +8,9 @@ Teams:
 
 FrontEnd - Kristina Jokic, Aryan Patil, Jeff Acevedo, Zipeng Ni
 
-BackEnd - Nikhil Agarwal (Prescriptions)
+BackEnd - All functionaltiy Developement (small UI changes to meet backend developement needs)
+
+          Nikhil Agarwal (Prescriptions)
           
           Mayank Barad (Delivery)
           
