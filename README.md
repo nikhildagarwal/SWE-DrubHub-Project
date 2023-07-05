@@ -15,3 +15,4 @@ Must have Node.js installed.
 create a new terminal and enter: node server.js 
 Chances are there will be a "module error", run: npm install "module name", until the console prints "spun up on local host 8000"
 Enjoy!
+s
