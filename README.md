@@ -16,7 +16,7 @@ BackEnd - All functionaltiy Developement (small UI changes to meet backend devel
           
           Simon Grishin & Qadis Chaudhary (Payments & Store/Cart),
 
-          Abid Azad (Knowledge Base & User Info, FAQ), Ravi Raghavan (Db, Google/Account Auth, FAQ)
+          Abid Azad (Knowledge Base & User Info, FAQ), Ravi Raghavan (Db, Google/Account Auth, FAQ, Accounts)
 
 Instructions to run the website:
 
