@@ -18,7 +18,7 @@ BackEnd - All functionaltiy Developement (small UI changes to meet backend devel
 
           Abid Azad (Knowledge Base & User Info, FAQ), Ravi Raghavan (Db, Google/Account Auth, FAQ, Accounts)
 
-Prescription Schema (Nikhil Agarwal):
+Prescription System Workflow (Nikhil Agarwal):
 ![image](https://github.com/nikhildagarwal/SWE-DrubHub-Project/assets/81342764/d63d6446-230c-4038-af8e-1e8cb4b585b3)
           
 Instructions to run the website:
